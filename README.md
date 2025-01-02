@@ -4,7 +4,7 @@
 
 # GeeKonverse Project
 
-App de simulação de um e-commerce para produtos naturais para o curso de personalização de UI no Android com Kotlin.
+Projeto Geek de games e cultura pop.
 
 ## 🔨 Funcionalidades do projeto
 
