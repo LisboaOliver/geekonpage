@@ -117,7 +117,7 @@ span{
         justify-content: center;
     }
     .conteudo_principal{
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5%;
     }
     .titulo_paragrafo{
